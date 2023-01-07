@@ -1,2 +1,2 @@
 # Caesar-Cipher
-My Python homework. This is an Caesar Encrypter/Decrypter. Enjoy!
+My Python homework. This is a Caesar Encrypter/Decrypter. Enjoy!
